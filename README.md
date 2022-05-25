@@ -3,11 +3,11 @@
 Edit this file by clicking the 'pen' symbol to the right.
 Then answer in the space below each question:
 
-1. First name
+1. Andrew
 
-2. Last name
+2. Lin
 
-3. Favourite animal
+3. Snake
 
 
 Now click the green 'commit changes' button at the bottom.
